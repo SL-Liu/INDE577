@@ -6,7 +6,9 @@ This repository represents the introduction and applications of Linear Regressio
 
 "Linear Regression.ipynb" contains the introduction and application on dataset of Linear Regression algorithm. 
 
-"House_Price.csv" is the dataset which contains many attributes: 
+"House_Price.csv" is the dataset which contains many attributes.
+
+## Data
 
 In this dataset,many variables can be regarded as variables which might influence house prices:
 
