@@ -2,6 +2,9 @@
 
 This repository represents the introduction and applications of Linear Regression.
 
+![maxresdefault](https://user-images.githubusercontent.com/108134942/226747399-3a084e6b-812d-4ac4-a6a6-dcc38b661279.jpeg)
+
+
 ## File Description
 
 "Linear Regression.ipynb" contains the introduction and application on dataset of Linear Regression algorithm. 
