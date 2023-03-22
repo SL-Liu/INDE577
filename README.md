@@ -15,7 +15,7 @@ This repository includes all topics taught by INDE577 and many datasets for each
   * K-Nearest Neighbors
   * Linear Regression
   * Logistic Regression
-  * Decision/ Regression Trees
+  * Decision Trees
 * Unsuperwised Learning
   * k-Means Clustering
   * Principal Component Analysis
