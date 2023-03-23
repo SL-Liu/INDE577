@@ -5,11 +5,9 @@ This repository represents the introduction and applications of Linear Regressio
 ![maxresdefault](https://user-images.githubusercontent.com/108134942/226747399-3a084e6b-812d-4ac4-a6a6-dcc38b661279.jpeg)
 
 
-## File Description
+## Introduction
 
-"Linear Regression.ipynb" contains the introduction and application on dataset of Linear Regression algorithm. 
-
-"House_Price.csv" is the dataset which contains many attributes.
+Linear regression is a statistical method used to establish a relationship between a dependent variable and one or more independent variables by fitting a straight line to the observed data points. The primary goal of linear regression is to find the best linear relationship between the dependent variable and the independent variables by minimizing the distance between the predicted and actual values.
 
 ## Data
 
