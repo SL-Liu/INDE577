@@ -1,4 +1,5 @@
 # Logistic Regression
+![lr2](https://user-images.githubusercontent.com/108134942/235529619-df512003-8c06-45e4-9752-1b6b6d918877.png)
 
 ## Introduction
 Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary).  Like all regression analyses, the logistic regression is a predictive analysis.  Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more nominal, ordinal, interval or ratio-level independent variables.
