@@ -5,3 +5,7 @@ k-Means clustering is a popular unsupervised machine learning algorithm that is 
 
 
 ## Data
+
+The ID, age, gender, income, and spending score of mall patrons are all included in this input file. Based on your specified criteria, such as customer behavior and purchasing information, you can assign the client a spending score.
+
+
