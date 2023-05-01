@@ -8,4 +8,14 @@ Ensemble learning is a machine learning technique that combines multiple individ
 Ensemble learning can be used in both supervised and unsupervised learning problems. In supervised learning, ensemble methods are used to combine the outputs of multiple models trained on the same dataset, while in unsupervised learning, they are used to combine the outputs of different clustering or anomaly detection algorithms.
 
 ## Data
+The data contains 748 samples and 5 columns. It describes people's blood donation data.
+Variables:
+1 Recency (months)	
 
+2 Frequency (times)	
+
+3 Monetary (c.c. blood)	
+
+4 Time (months)	
+
+5whether he/she donated blood in March 2007
