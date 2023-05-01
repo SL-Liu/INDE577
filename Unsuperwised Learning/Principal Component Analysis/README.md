@@ -7,3 +7,18 @@ In PCA, the data is transformed into a new coordinate system in such a way that 
 
 PCA is often used in exploratory data analysis to visualize high-dimensional datasets in two or three dimensions, as well as in machine learning tasks such as feature extraction and dimensionality reduction. By reducing the dimensionality of the data, PCA can improve the performance and efficiency of machine learning models.
 ## Data
+
+This data contains 167 samples and 10 columns, which describes GDP and other features of countries.
+
+Here are the features:
+1 country	
+2 child_mort	
+3 exports	
+4 health	
+5 imports	
+6 income	
+7 inflation	
+8 life_expec	
+9 total_fer	
+10 gdpp
+
