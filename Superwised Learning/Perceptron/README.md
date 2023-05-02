@@ -5,3 +5,6 @@ Perceptron is a binary linear classifier, which is one of the basic building blo
 
 The input layer of the Perceptron algorithm accepts a vector as input, each input is multiplied by a weight, and all results are summed to obtain a weighted sum. The Perceptron algorithm can handle linearly separable problems, where there is a hyperplane that completely separates the positive and negative data. If the data is linearly indistinguishable, the Perceptron algorithm stops after a finite number of iterations and yields a model that cannot correctly classify all the data.
 ## Data
+'diabetes.csv' is the dataset used:
+
+It multi-class classification dataset. It has 9 columns and the last one is outcome label.
