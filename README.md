@@ -1,4 +1,4 @@
-# INDE577
+# INDE577 Data Science and Machine Learning
 
 ## Course Description
 This repository is about code assignments for Rice University's Spring 2023 INDE577. We are studying data science, machine learning, and Python-based applications in this course. The algorithms from supervised learning, unsupervised learning are covered in this data science course. 
