@@ -1,4 +1,4 @@
-# Unsuperwised Learning
+# Unsupervised Learning
 ![ul](https://user-images.githubusercontent.com/108134942/235795444-4dfe7087-3c0d-4059-acdc-716c09ac1b44.png)
 
 
