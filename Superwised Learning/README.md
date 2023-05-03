@@ -1,4 +1,4 @@
-# Superwised Learning
+# Supervised Learning
 ![sw](https://user-images.githubusercontent.com/108134942/235795118-eb53ad63-6ae4-4f62-97d0-7ecbfbdc9094.png)
 
 
