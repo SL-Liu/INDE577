@@ -13,7 +13,7 @@ Student: Siling Liu
 
 
 ## Learning Components
-* Superwised Learning
+* Supervised Learning
   * Linear Regression
   * Gradient Descent
   * Logistic Regression
@@ -22,6 +22,6 @@ Student: Siling Liu
   * K-Nearest Neighbors
   * Ensemble Learning
   * Decision Trees
-* Unsuperwised Learning
+* Unsupervised Learning
   * k-Means Clustering
   * Principal Component Analysis
